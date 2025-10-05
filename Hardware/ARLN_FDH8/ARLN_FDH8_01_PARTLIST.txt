@@ -1,0 +1,38 @@
+Partlist
+
+Exported from ARLN_FDH8_01.sch at 15/09/2018 22:35
+
+EAGLE Version 8.2.2 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value           Device          Package         Library             Sheet
+
+C1       100Uf 35v       CPOL-EUE2.5-7   E2,5-7          rcl                 1
+C2       100 uF35v       CPOL-EUE2.5-7   E2,5-7          rcl                 1
+C3       100 nF          C-EU050-025X075 C050-025X075    rcl                 1
+C4       100 nF          C-EU050-025X075 C050-025X075    rcl                 1
+D1       1N4004          1N4004          DO41-10         diode               1
+IC1      LM311N          LM311N          DIL08           linear              1
+IC2      7805TV          7805TV          TO220V          linear              1
+J1       RJ12            RJ12            RJ12            con-rj              1
+J2       RJ12            RJ12            RJ12            con-rj              1
+JP1                      JP2E            JP2             jumper              1
+R1       10K             R-EU_0204/7     0204/7          resistor            1
+R2       22K             R-EU_0204/7     0204/7          resistor            1
+R3       47K             R-EU_0204/7     0204/7          resistor            1
+R4       150K            R-EU_0204/7     0204/7          resistor            1
+R5       220K            R-EU_0204/7     0204/7          resistor            1
+R6       4K7             R-EU_0204/7     0204/7          resistor            1
+S1                       10-XX           B3F-10XX        switch-omron        1
+SH1                      M03JST-PTH-VERT JST-3-PTH-VERT  SparkFun-Connectors 1
+SH2                      M03JST-PTH-VERT JST-3-PTH-VERT  SparkFun-Connectors 1
+SH3                      M03JST-PTH-VERT JST-3-PTH-VERT  SparkFun-Connectors 1
+SH4                      M03JST-PTH-VERT JST-3-PTH-VERT  SparkFun-Connectors 1
+SH5                      M03JST-PTH-VERT JST-3-PTH-VERT  SparkFun-Connectors 1
+SH6                      M03JST-PTH-VERT JST-3-PTH-VERT  SparkFun-Connectors 1
+SH7                      M03JST-PTH-VERT JST-3-PTH-VERT  SparkFun-Connectors 1
+SH8                      M03JST-PTH-VERT JST-3-PTH-VERT  SparkFun-Connectors 1
+T1       2N3904          2N3904          TO92            transistor          1
+U$1      ARDUINONANO     ARDUINONANO     PDIP-32         jet-lib             1
+X1       MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 con-phoenix-508     1
